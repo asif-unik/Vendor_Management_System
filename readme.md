@@ -238,6 +238,3 @@ Brief Introduction of project
   - `vendor_id` (integer, required): Unique identifier of the vendor.
   - `date` (string, required): Date for which performance metrics are requested (format: YYYY-MM-DD).
 - **Response:** Returns JSON data containing performance metrics for the specified date.
-#   V e n d o r _ M a n a g e m e n t _ S y s t e m 
- 
- 
